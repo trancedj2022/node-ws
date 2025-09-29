@@ -6,7 +6,7 @@ COPY . .
 
 EXPOSE 3000
 
-RUN apk update && apk add --no-cache openssl curl &&\
+RUN apk update && apk add --no-cache openssl curl bash&&\
     chmod +x index.js &&\
     npm install
 

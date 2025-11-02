@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Node.js Server",
   "main": "index.js",
-  "author": "eoovve",
-  "repository": "https://github.com/eoovve/node-ws",
+  "author": "trancedj2022",
+  "repository": "https://github.com/trancedj2022/node-ws",
   "license": "MIT",
   "private": false,
   "scripts": {
